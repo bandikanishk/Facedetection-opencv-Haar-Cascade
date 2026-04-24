@@ -1,0 +1,8 @@
+hypothesis
+pytest
+Pygame
+matplotlib
+numpy
+plotly
+python-ta==2.9.2
+opencv-python
